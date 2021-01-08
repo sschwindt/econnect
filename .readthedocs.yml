@@ -29,7 +29,6 @@ python:
       path: .
       extra_requirements:
         - sphinx
-    system_packages: true
 
 # Server Side Search settings
 search:
