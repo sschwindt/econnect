@@ -6,8 +6,7 @@ def calc_discharge(b, h, m_bank, S, k_st=None, n_m=None, D_90=None):
     """
     Calulate discharge in SI units. Provide one of the optional parameters k_st, n_m, or D_90.
 
-    Agruments:
-
+    Arguments:
         b (float): width (m)
         h (float): depth (m)
         m_bank (float): bank slope (-)
