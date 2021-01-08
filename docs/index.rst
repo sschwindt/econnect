@@ -13,7 +13,7 @@ This joint Sino-German research project is funded by the `DFG`_ and the `NSFC`_ 
 .. figure:: https://github.com/sschwindt/econnect/raw/main/docs/img/header.jpg
     :alt: header
     :figwidth: 100%
-    :align: cemter
+    :align: center
 
     The Rhine in Germany on the left (image: Sebastian Schwindt, 2016) and the Yellow River on the right (image source: Jin Zhan/Xinhua News Agency, 2016).
 
@@ -138,7 +138,9 @@ Instructions for getting ready to use models, codes, and algorithms provided are
 More contents
 ~~~~~~~~~~~~~
 
-.. toctree:: About
+.. toctree::
+    :maxdepth: 3
+    :caption: About
 
     self
 

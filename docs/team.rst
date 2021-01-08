@@ -16,11 +16,41 @@ In addition, the project will be aided by the university's innovative graduation
 Sebastian Schwindt
 ^^^^^^^^^^^^^^^^^^
 
++----------------------------------+----------------------------------+
+| Dr. sc. Sebastian Schwindt is    | .. image::                       |
+| the head of the                  | https://www.iws.uni-stuttgar     |
+| hydro-morphodynamics research    | t.de/img/iws/mitarbeiter/Sebasti |
+| group Institute for Modelling    | an_Schwindt_LWW.jpg?__scale=w:22 |
+| Hydraulic and Environmental      | 0,h:220,cx:0,cy:94,cw:750,ch:750 |
+| Systems (IWS, University of      |                                  |
+| Stuttgart). His research focuses |                                  |
+| on numerical analyses, Python    |                                  |
+| programming, sediment transport, |                                  |
+| ecohydraulics, and ecosystem     |                                  |
+| design. He completed his         |                                  |
+| Bachelor (2010) and Master       |                                  |
+| (2012) studies at the Technical  |                                  |
+| University of Munich (Germany)   |                                  |
+| in Environmental Engineering and |                                  |
+| accomplished his doctorate at    |                                  |
+| the Ecole Polytechnique fédérale |                                  |
+| de Lausanne (EPFL, Switzerland). |                                  |
+| Between 2017 and 2019, Sebastian |                                  |
+| Schwindt pursued postdoctoral    |                                  |
+| research at the University of    |                                  |
+| California, Davis (USA) with     |                                  |
+| Prof. Greg Pasternack. The       |                                  |
+| emphasis of his postdoctoral     |                                  |
+| research was on the ecohydraulic |                                  |
+| enhancement of the Yuba River    |                                  |
+| (California, USA).               |                                  |
++----------------------------------+----------------------------------+
 
 
-.. image:: https://www.iws.uni-stuttgart.de/img/iws/mitarbeiter/Sebastian_Schwindt_LWW.jpg?__scale=w:220,h:220,cx:0,cy:94,cw:750,ch:750
+..
+    .. image:: https://www.iws.uni-stuttgart.de/img/iws/mitarbeiter/Sebastian_Schwindt_LWW.jpg?__scale=w:220,h:220,cx:0,cy:94,cw:750,ch:750
 
-Dr. sc. Sebastian Schwindt is the head of the hydro-morphodynamics research group Institute for Modelling Hydraulic and Environmental Systems (IWS, University of Stuttgart). His research focuses on numerical analyses, Python programming, sediment transport, ecohydraulics, and ecosystem design. He completed his Bachelor (2010) and Master (2012) studies at the Technical University of Munich (Germany) in Environmental Engineering and accomplished his doctorate at the Ecole Polytechnique fédérale de Lausanne (EPFL, Switzerland). Between 2017 and 2019, Sebastian Schwindt pursued postdoctoral research at the University of California, Davis (USA) with Prof. Greg Pasternack. The emphasis of his postdoctoral research was on the ecohydraulic enhancement of the Yuba River (California, USA).
+    Dr. sc. Sebastian Schwindt is the head of the hydro-morphodynamics research group Institute for Modelling Hydraulic and Environmental Systems (IWS, University of Stuttgart). His research focuses on numerical analyses, Python programming, sediment transport, ecohydraulics, and ecosystem design. He completed his Bachelor (2010) and Master (2012) studies at the Technical University of Munich (Germany) in Environmental Engineering and accomplished his doctorate at the Ecole Polytechnique fédérale de Lausanne (EPFL, Switzerland). Between 2017 and 2019, Sebastian Schwindt pursued postdoctoral research at the University of California, Davis (USA) with Prof. Greg Pasternack. The emphasis of his postdoctoral research was on the ecohydraulic enhancement of the Yuba River (California, USA).
 
 In this project, he is the PI on behalf of the research team from the University of Stuttgart.
 
