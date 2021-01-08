@@ -5,14 +5,19 @@ import math as m
 def calc_discharge(b, h, m_bank, S, k_st=None, n_m=None, D_90=None):
     """
     Calulate discharge in SI units. Provide one of the optional parameters k_st, n_m, or D_90.
-    :param b: width (m)
-    :param h: depth (m)
-    :param m_bank: bank slope (-)
-    :param S: slope (-)
-    :param k_st: Strickler roughness (optional)
-    :param n_m: Manning roughness (optional)
-    :param D_90: D90 for roughness (optional)
-    :return:
+
+    Agruments:
+
+        b (float): width (m)
+        h (float): depth (m)
+        m_bank (float): bank slope (-)
+        S (float): slope (-)
+        k_st (float): Strickler roughness (optional)
+        n_m (float): Manning roughness (optional)
+        D_90 (float): D90 for roughness (optional)
+
+    Returns:
+        ``float`` of discharge in CMS
     """
     if n_m:
         k_st = 1 / n_m
@@ -27,15 +32,19 @@ def interpolate_h(Q, b, S0, m_bank=1.0, n_m=0.04, prec=0.001, **kwargs):
     """
     Inverse calculation of normal water depth for a given discharge and channel geometry
     uses Raphson-Newton Algorithm
-    :param Q: FLOAT of target discharge in (m3/s)
-    :param b: FLOAT of channel base width in (m)
-    :param S0: FLOAT of channel (energy) slope is (m/m)
-    :param m_bank: FLOAT of channel bank inclination (dimensionless), default=1.0
-    :param n_m: FLOAT of Manning's n, default=0.04
-    :param prec: FLOAT of result precision (don't be too picky)
-    :kwargs kst: FLOAT of Strickler value supersedes n_m
-    :kwargs d90: FLOAT of surface grain size supersedes n_m
-    :return: FLOAT of flow depth
+
+    Arguments:
+        Q (float): of target discharge in (m3/s)
+        b (float): of channel base width in (m)
+        S0 (float): of channel (energy) slope is (m/m)
+        m_bank (float): of channel bank inclination (dimensionless), default=1.0
+        n_m (float): of Manning's n, default=0.04
+        prec (float): of result precision (don't be too picky)
+        kst (float): of Strickler value supersedes n_m
+        d90 (float): of surface grain size supersedes n_m
+
+    Returns:
+        ``float``  of flow depth in M
     """
 
     # parse keyword arguments
