@@ -76,7 +76,7 @@ extensions = [
     'jupyter_sphinx',
 ]
 
-needs_extensions = {"sphinxcontrib.bibtex": "1.0.0"}
+needs_extensions = {"sphinxcontrib.bibtex": "< 2.0.0"}
 
 
 templates_path = ['_templates']
