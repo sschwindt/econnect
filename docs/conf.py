@@ -61,7 +61,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     "sphinx_copybutton",
     "sphinx_togglebutton",
-    "sphinxcontrib.bibtex<2.0.0",
+    "sphinxcontrib.bibtex",
     'sphinx.ext.autodoc',
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
@@ -76,8 +76,15 @@ extensions = [
     'jupyter_sphinx',
 ]
 
+needs_extensions = {"sphinxcontrib.bibtex": "1.0.0"}
+
+
 templates_path = ['_templates']
-source_suffix = '.rst'
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'restructuredtext',
+    '.md': 'markdown',
+}
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 locale_dirs = ['locale/', 'docs/']
 gettext_compact = False
