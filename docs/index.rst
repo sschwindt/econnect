@@ -1,8 +1,8 @@
 .. RTD documentation master file.
 
 
-River Ecosystem Connectivity
-============================
+Hydro-morphodynamic connectivity and ecosystem design in a changing environment
+===============================================================================
 
 The full title of this joint Sino-German research project is **Hydro-morphodynamic connectivity and ecosystem design in a changing environment**. The project funded by the `DFG`_ and the `NSFC`_ in the framework of long-standing efforts to foster scientific collaboration between China and Germany. More information on funding sources will be available on the DFG's `GEPRIS platform <https://gepris.dfg.de/gepris/>`_.
 
@@ -57,12 +57,18 @@ Workflow Chart
 .. figure:: https://github.com/sschwindt/econnect/raw/main/docs/img/objectives-flowchart.png
    :alt: structure
 
-Table of Contents
-====================
+More
+~~~~
 
-.. toctree::
+.. toctree:: About
 
     self
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Project Team
+
+    team
 
 .. toctree::
     :maxdepth: 2
