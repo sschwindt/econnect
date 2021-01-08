@@ -1,46 +1,58 @@
 .. RTD documentation master file.
 
 
-Hydro-morphodynamic connectivity and ecosystem design in a changing environment
-===============================================================================
+River Ecosystem Connectivity
+============================
 
-Summary
+The full title of this joint Sino-German research project is ***Hydro-morphodynamic connectivity and ecosystem design in a changing environment***. The project funded by the `DFG`_ and the `NSFC`_ in the framework of long-standing efforts to foster scientific collaboration between China and Germany. More information on funding sources will be available on the DFG's `GEPRIS platform <https://gepris.dfg.de/gepris/>`_.
 
 
-Overview
+
+
+
+Operation Flow Chart
+====================
+
+.. figure:: https://github.com/sschwindt/econnect/raw/main/docs/img/objectives-flowchart.png
+   :alt: structure
+
+Table of Contents
 ====================
 
 .. toctree::
 
     self
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Morphological Connectivity
+..
+    .. toctree::
+        :maxdepth: 2
+        :caption: Morphological Connectivity
 
-    ecomorphology
+        ecomorphology
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Hydrological Connectivity
+    .. toctree::
+        :maxdepth: 2
+        :caption: Hydrological Connectivity
 
-    ecohydrology
+        ecohydrology
 
-.. toctree::
-    :maxdepth: 3
-    :caption: Contributing
+    .. toctree::
+        :maxdepth: 3
+        :caption: Internal Access
 
-    contribute
+        internal
 
-.. toctree::
-    :maxdepth: 3
-    :caption: Disclaimer and License
-    :includehidden:
+    .. toctree::
+        :maxdepth: 3
+        :caption: Disclaimer and License
+        :includehidden:
 
-    license
+        license
 
 
 
 .. _Institute for Modelling Hydraulic and Environmental Systems: https://www.iws.uni-stuttgart.de/en/lww/
 .. _QGIS: https://qgis.org/en/site/
 .. _Sebastian Schwindt: https://sebastian-schwindt.org/
+.. _DFG: https://www.dfg.de
+.. _NSFC: http://www.nsfc.gov.cn/english/site_1/index.html
