@@ -1,8 +1,11 @@
 .. RTD documentation master file.
 
 
-Hydro-morphodynamic connectivity and ecosystem design in a changing environment
-===============================================================================
+**Hydro-morphodynamic connectivity and ecosystem design in a changing environment**
+
+
+About
+=====
 
 This joint Sino-German research project is funded by the `DFG`_ and the `NSFC`_ in the framework of long-standing efforts to foster scientific collaboration between China and Germany. More information on funding sources will be available on the DFG's `GEPRIS platform <https://gepris.dfg.de/gepris/>`_.
 
@@ -19,8 +22,6 @@ This joint Sino-German research project is funded by the `DFG`_ and the `NSFC`_ 
 
 .. _about:
 
-About
-=====
 
 Motivation
 ~~~~~~~~~~
