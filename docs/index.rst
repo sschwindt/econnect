@@ -150,15 +150,15 @@ More contents
 
 .. toctree::
     :maxdepth: 2
-    :caption: Morphological Connectivity
+    :caption: Codes & Algorithms
 
-    ecomorphology
+    codes
 
 .. toctree::
     :maxdepth: 2
-    :caption: Hydrological Connectivity
+    :caption: Publications
 
-    ecohydrology
+    publications
 
 .. toctree::
     :maxdepth: 3
