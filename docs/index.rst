@@ -18,8 +18,10 @@ This joint Sino-German research project is funded by the `DFG`_ and the `NSFC`_ 
 
     The Rhine in Germany on the left (image: Sebastian Schwindt, 2016) and the Yellow River on the right (image source: Jin Zhan/Xinhua News Agency, 2016).
 
-.. _about:
+.. note::
+    This website can be downloaded as `style-adapted PDF <https://econnect.readthedocs.io/_/downloads/en/latest/pdf/>`_.
 
+.. _about:
 
 Motivation
 ~~~~~~~~~~
