@@ -4,7 +4,6 @@
 Hydro-morphodynamic connectivity and ecosystem design in a changing environment
 ===============================================================================
 
-
 This joint Sino-German research project is funded by the `DFG`_ and the `NSFC`_ in the framework of long-standing efforts to foster scientific collaboration between China and Germany. More information on funding sources will be available on the DFG's `GEPRIS platform <https://gepris.dfg.de/gepris/>`_.
 
 .. admonition:: Are you a student?
@@ -179,40 +178,70 @@ More contents
 References
 ==========
 
-3	Bibliography
-
 `[1]`_	D. J. Allan and M. M. Castillo, Stream Ecology - Structure and Function of Running Waters, Second. Dordrecht, The Netherlands: Springer, 2007.
+
 `[2]`_	J. Kalff, Limnology: inland water ecosystems. Upper Saddle River, N.J.: Prentice Hall, 2002.
+
 `[3]`_	B. Yu, J. Z. Zhang, and Y. O. Liu, "Influence of water sediment regulation in Xiaolangdi reservoir on plankton in the Yellow River," Hebei fisheries, vol. 1, pp. 15–20, 2013.
-`[4]`_	J. G. Tulla, Die Grundsätze, nach welchen die Rheinbauarbeiten künftig zu führen seyn möchten `[The principle according to which the future construction works at the Rhine need to be managed]`_. 1812.
+
+`[4]`_	J. G. Tulla, Die Grundsätze, nach welchen die Rheinbauarbeiten künftig zu führen seyn möchten [The principle according to which the future construction works at the Rhine need to be managed]. 1812.
+
 `[5]`_	D. Blackbourn, The Conquest of Nature: Water, Landscape and the Making of Modern Germany. London, United Kingdom: Pimlico, 2006.
+
 `[6]`_	K. Ochs, G. Egger, I. Kopecki, and T. Ferreira, "Model-based reconstruction of the succession dynamics of a large river floodplain," River Res. Appl., vol. 35, no. 7, pp. 944–954, 2019, doi: 10.1002/rra.3502.
+
 `[7]`_	B. O. L. Demars, G. Wiegleb, D. M. Harper, U. Bröring, H. Brux, and W. Herr, "Aquatic Plant Dynamics in Lowland River Networks: Connectivity, Management and Climate Change," Water, vol. 6, no. 4, pp. 868–911, 2014, doi: doi:10.3390/w6040868.
+
 `[8]`_	K. E. Trenberth, "The Impact of Climate Change and Variability on Heavy Precipitation, Floods, and Droughts," in Encyclopedia of Hydrological Sciences, American Cancer Society, 2008.
+
 `[9]`_	M. Acreman et al., "Environmental flows for natural, hybrid, and novel riverine ecosystems in a changing world," Front. Ecol. Environ., vol. 12, no. 8, pp. 466–473, 2014, doi: 10.1890/130134.
+
 `[10]`_	S. Schwindt, G. B. Pasternack, P. M. Bratovich, G. Rabone, and D. Simodynes, "Hydro-morphological parameters generate lifespan maps for stream restoration management," J. Environ. Manage., vol. 232, pp. 475–489, 2019, doi: 10.1016/j.jenvman.2018.11.010.
+
 `[11]`_	S. Chen, B. Chen, and B. D. Fath, "Assessing the cumulative environmental impact of hydropower construction on river systems based on energy network model," Renew. Sustain. Energy Rev., vol. 42, pp. 78–92, Feb. 2015, doi: 10.1016/j.rser.2014.10.017.
+
 `[12]`_	H. Wang, Z. Yang, Y. Saito, J. P. Liu, and X. Sun, "Interannual and seasonal variation of the Huanghe (Yellow River) water discharge over the past 50 years: Connections to impacts from ENSO events and dams," Glob. Planet. Change, vol. 50, no. 3, pp. 212–225, Apr. 2006, doi: 10.1016/j.gloplacha.2006.01.005.
+
 `[13]`_	Q. Tian, "Impacts of climate change and human activity on the water and sediment flux of the Yellow, Yangtze and Pearl River basins over the past 60 years," East China Normal University, Shanghai, China, 2016.
+
 `[14]`_	A. McCormick, K. Fisher, and G. Brierley, "Quantitative assessment of the relationships among ecological, morphological and aesthetic values in a river rehabilitation initiative," J. Environ. Manage., vol. 153, pp. 60–67, 2015, doi: 10.1016/j.jenvman.2014.11.025.
+
 `[15]`_	W. Gostner, M. Alp, A. J. Schleiss, and C. C. Robinson, "The hydro-morphological index of diversity: a tool for describing habitat heterogeneity in river engineering projects," Hydrobiologia, vol. 712, no. 1, pp. 43–60, 2013, doi: 10.1007/s10750-012-1288-5.
+
 `[16]`_	L. Seitz, C. Haas, M. Noack, and S. Wieprecht, "From picture to porosity of river bed material using Structure-from-Motion with Multi-View-Stereo," Geomorphology, vol. 306, pp. 80–89, Apr. 2018, doi: 10.1016/j.geomorph.2018.01.014.
+
 `[17]`_	M. Noack, J. Ortlepp, and S. Wieprecht, "An Approach to Simulate Interstitial Habitat Conditions During the Incubation Phase of Gravel-Spawning Fish," River Res. Appl., vol. 33, no. 2, pp. 192–201, 2017, doi: 10.1002/rra.3012.
+
 `[18]`_	S. Schwindt, K. Larrieu, G. B. Pasternack, and G. Rabone, "River Architect," Softw. X, 2020.
+
 `[19]`_	A. Schaefer Rodrigues Silva, M. Noack, D. Schlabing, and S. Wieprecht, "A data-driven fuzzy approach to simulate the critical shear stress of cohesive sediments," in River sedimentation, Stuttgart, Germany, 2016, pp. 387–393.
+
 `[20]`_	S. Wieprecht, H. G. Tolossa, and C. T. Yang, "A neuro-fuzzy-based modelling approach for sediment transport computation," Hydrol. Sci. J., vol. 58, no. 3, pp. 587–599, Apr. 2013, doi: 10.1080/02626667.2012.755264.
+
 `[21]`_	S. Schwindt, G. B. Pasternack, P. M. Bratovich, G. Rabone, and D. Simodynes, "Lifespan map creation enhances stream restoration design," MethodsX, vol. 6, pp. 756–759, 2019, doi: 10.1016/j.mex.2019.04.004.
+
 `[22]`_	M. Noack, "Modelling Approach for Interstitial Sediment Dynamics and Reproduction of Gravel-Spawning Fish," Dissertation No. 214, Institute for Modelling Hydraulic and Environmental Systems, University of Stuttgart, 2012.
+
 `[23]`_	V. Chardon et al., "Geomorphic effects of gravel augmentation on the Old Rhine River downstream from the Kembs dam (France, Germany)," E3S Web Conf., vol. 40, p. 02028, 2018, doi: 10.1051/e3sconf/20184002028.
+
 `[24]`_	M. Weyand and L. Rullich, "River rehabilitation in urban areas – restrictions, possibilities and positive results," Water Supply, vol. 19, no. 3, pp. 944–952, Aug. 2018, doi: 10.2166/ws.2018.145.
+
 `[25]`_	F. Arnaud, L. Schmitt, K. Johnstone, A.-J. Rollet, and H. Piégay, "Engineering impacts on the Upper Rhine channel and floodplain over two centuries," Geomorphology, vol. 330, pp. 13–27, Apr. 2019, doi: 10.1016/j.geomorph.2019.01.004.
+
 `[26]`_	A. Schäfer-Rodrigues Silva, G. Schmid, M. Noack, and S. Wieprecht, "Erosionsmessungen an Sedimentkernen aus dem Oberwasser der Wehranlagen Marckolsheim und Rhinau," University of Stuttgart, Stuttgart, Germany, 03/2017, 2017.
+
 `[27]`_	M. Noack, G. Hillebrand, U. Seidenkranz, and S. Wieprecht, "Investigation on the erosion stability of cohesive sediment deposits in the weir channel of the barrage Iffezheim, River Rhine," Hydrol. Wasserbewirtsch., vol. 60, no. 3, pp. 164–175, 2016, doi: 10.5675/HyWa_2016,3_1.
+
 `[28]`_	M. Noack, G. Schmid, F. Beckers, S. Haun, and S. Wieprecht, "PHOTOSED-PHOTOgrammetric Sediment Erosion Detection," Geosciences, vol. 8, no. 7, p. 243, Jul. 2018, doi: 10.3390/geosciences8070243.
+
 `[29]`_	A. Barriga-Morachimo, "Verifizierung und Optimierung eines optischen Messsystems," Bachelor Thesis, University of Stuttgart, Stuttgart, Germany, 2014.
+
 `[30]`_	M. Körner, "Anthropogene Einflussnahmen auf den Rhein von Basel bis Emmerich und ihre Auswirkungen auf die Fließtiefen," Bachelor Thesis, University of Stuttgart, Stuttgart, Germany.
+
 `[31]`_	R. A. Brown, G. B. Pasternack, and W. W. Wallender, "Synthetic river valleys: Creating prescribed topography for form-process inquiry and river rehabilitation design," Geomorphology, vol. 240, pp. 40–55, 2014, doi: 10.1016/j.geomorph.2014.02.025.
+
 `[32]`_	M. W. Straatsma and M. G. Kleinhans, "Flood hazard reduction from automatically applied landscaping measures in RiverScape, a Python package coupled to a two-dimensional flow model," Environ. Model. Softw., vol. 101, pp. 102–116, 2018, doi: 10.1016/j.envsoft.2017.12.010.
+
 `[33]`_	G. I. Barenblatt, Scaling, self-similarity and intermediate asymptotics. Dimensional Analysis and Intermediate Asymptotics. Cambridge University Press, 1996.
 
 
