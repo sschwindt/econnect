@@ -61,7 +61,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     "sphinx_copybutton",
     "sphinx_togglebutton",
-    "sphinxcontrib.bibtex",
+    "sphinxcontrib.bibtex<2.0.0",
     'sphinx.ext.autodoc',
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
