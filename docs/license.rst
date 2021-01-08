@@ -4,12 +4,12 @@ Disclaimer and License
 Disclaimer (general)
 ~~~~~~~~~~~~~~~~~~~~
 
-No warranty is expressed or implied regarding the usefulness or completeness of the information provided for *flusstools* and its documentation. References to commercial products do not imply endorsement by the Authors of *flusstools*. The concepts, materials, and methods used in the codes and described in the docs are for informational purposes only. The Authors have made substantial effort to ensure the accuracy of the code and the docs and the Authors shall not be held liable, nor their employers or funding sponsors, for calculations and/or decisions made on the basis of application of *flusstools*. The information is provided "as is" and anyone who chooses to use the information is responsible for her or his own choices as to what to do with the code, docs, and data and the individual is responsible for the results that follow from their decisions.
+No warranty is expressed or implied regarding the usefulness or completeness of the information provided on these pages and its documentation. References to commercial products do not imply endorsement by the Authors. The concepts, materials, and methods used in the codes and described in the docs are for informational purposes only. The Authors have made substantial effort to ensure the accuracy of the code and the documentation and the Authors shall not be held liable, nor their employers or funding sponsors, for calculations and/or decisions made on the basis of application of the information provided on these pages. The information is provided "as is" and anyone who chooses to use the information is responsible for her or his own choices as to what to do with the descriptions, code, documentation, data, and other information and the individual is responsible for the results that follow from their decisions.
 
 BSD 3-Clause License
 ~~~~~~~~~~~~~~~~~~~~
 
-Copyright (c) 2020, the *FlussTeam* and all other the Authors of *flusstools*.
+Copyright (c) 2021, the Authors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -26,7 +26,7 @@ modification, are permitted provided that the following conditions are met:
    contributors may be used to endorse or promote products derived from
    this software without specific prior written permission.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+THIS INFORMATION AND ALGORITHMS ARE PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
 DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE

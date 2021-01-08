@@ -2,13 +2,13 @@ Project Team
 ============
 
 University of Stuttgart (Germany)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------
 
 The permanent team of researchers working on this project from the University of Stuttgart includes:
 
 * Dr. sc. `Sebastian Schwindt`_     (Principal Investigator of the project)
 * `Stefan Haun`_ (PhD)              (Head of Hydraulic Laboratory)
-* Prof. Dr.-Ing. `Silke Wieprecht`_ (Full professor (Department Head)
+* Prof. Dr.-Ing. `Silke Wieprecht`_ (Full professor, Department Head)
 * MSc. Young Researcher             (Doctoral researcher)
 
 In addition, the project will be aided by the university's innovative graduation students.
@@ -18,13 +18,12 @@ Sebastian Schwindt
 
 .. figure:: https://www.iws.uni-stuttgart.de/img/iws/mitarbeiter/Sebastian_Schwindt_LWW.jpg?__scale=w:220,h:220,cx:0,cy:94,cw:750,ch:750
     :alt: schwindt
-    :width: 25%
     :figwidth: 100%
     :align: right
 
-    Dr. sc. Sebastian Schwindt is the head of the hydro-morphodynamics research group Institute for Modelling Hydraulic and Environmental Systems (IWS, University of Stuttgart). His research focuses on numerical analyses, Python programming, sediment transport, ecohydraulics, and ecosystem design. He completed his Bachelor (2010) and Master (2012) studies at the Technical University of Munich (Germany) in Environmental Engineering and accomplished his doctorate at the Ecole Polytechnique fédérale de Lausanne (EPFL, Switzerland). Between 2017 and 2019, Sebastian Schwindt pursued postdoctoral research at the University of California, Davis (USA) with Prof. Greg Pasternack. The emphasis of his postdoctoral research was on the ecohydraulic enhancement of the Yuba River (California, USA).
+Dr. sc. Sebastian Schwindt is the head of the hydro-morphodynamics research group Institute for Modelling Hydraulic and Environmental Systems (IWS, University of Stuttgart). His research focuses on numerical analyses, Python programming, sediment transport, ecohydraulics, and ecosystem design. He completed his Bachelor (2010) and Master (2012) studies at the Technical University of Munich (Germany) in Environmental Engineering and accomplished his doctorate at the Ecole Polytechnique fédérale de Lausanne (EPFL, Switzerland). Between 2017 and 2019, Sebastian Schwindt pursued postdoctoral research at the University of California, Davis (USA) with Prof. Greg Pasternack. The emphasis of his postdoctoral research was on the ecohydraulic enhancement of the Yuba River (California, USA).
 
-    In this project, he is the PI on behalf of the research team from the University of Stuttgart.
+In this project, he is the PI on behalf of the research team from the University of Stuttgart.
 
 
 Silke Wieprecht
@@ -57,11 +56,11 @@ Coming soon
 .. _opportunities:
 
 Grad Students
-^^^^^^^^^^^^^
+-------------
 
 Opportunities for Bachelor and Master Theses within this project are already available on `IWS' website <https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/>`_. Currently, we are looking for undergrad or grad students who want to write a study thesis on the following topics:
 
-*  `Ecosystem analysis of the Rhine<https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/BSc-2021-Ecosystem-analysis-Rhine.pdf>`_
+*  `Ecosystem analysis of the Rhine <https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/BSc-2021-Ecosystem-analysis-Rhine.pdf>`_
 
 
 
