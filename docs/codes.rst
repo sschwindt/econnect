@@ -125,6 +125,36 @@ Example
 .. automodule:: example_solver
     :members:
 
+More about Sphinx & ReadTheDocs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This page uses *Sphinx* `readthedocs <https://readthedocs.org/>`_ and the documentation regenerates automatically after pushing changes to the repositories ``main`` branch.
+
+To set styles, configure or add extensions to the documentation use ``ROOT/.readthedocs.yml`` and ``ROOT/docs/conf.py``.
+
+To modify this documentation file, edit ``ROOT/docs/index.rst`` (uses `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_ format).
+
+For local builds of the documentation, the following packages are required:
+
+.. code:: console
+
+   sudo apt install build-essential
+   sudo apt install python-dev python-pip python-setuptools
+   sudo apt install libxml2-dev libxslt1-dev zlib1g-dev
+   apt-cache search libffi
+   sudo apt install -y libffi-dev
+   sudo apt install python3-dev default-libmysqlclient-dev
+   sudo apt install python3-dev
+   sudo apt install redis-server
+
+To generate a local html version of the documentation, ``cd`` into the  ``docs`` directory  and type:
+
+.. code:: console
+
+   make html
+
+Learn more about *Sphinx* documentation and the automatic generation of *Python* code docs through docstrings in the tutorial provided at `github.com/sschwindt/docs-with-sphinx <https://github.com/sschwindt/docs-with-sphinx>`_.
+
 
 .. _email Sebastian: https://www.iws.uni-stuttgart.de/institut/team/Schwindt/
 .. _hydro-informatics.github.io: https://hydro-informatics.github.io/

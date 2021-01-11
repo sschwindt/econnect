@@ -22,7 +22,7 @@ Dr. sc. Sebastian Schwindt is the head of the hydro-morphodynamics research grou
 
 .. sidebar:: Silke Wieprecht
 
-    .. image:: https://www.iws.uni-stuttgart.de/img/iws/mitarbeiter/Silke_Wieprecht_LWW.jpg?__scale=w:220,h:220,cx:0,cy:2,cw:2000,ch:2000
+    .. image:: https://www.iws.uni-stuttgart.de/img/iws/mitarbeiter/Silke_Wieprecht_LWW.jpg?__scale=w:220,h:220,cx:0,cy:0,cw:2000,ch:2000
 
 Prof. Dr.-Ing. Silke Wieprecht is the Head of the Department of Hydraulic Engineering and Water Resources Management (LWW) at the IWS (University of Stuttgart). She has long-standing experience in hydraulic engineering with a focus on sediment transport since her early career. Silke Wieprecht completed her doctorate at the University of the Federal Armed Forces in Munich and afterwards worked at the Federal Institute of Hydrology in the field of water morphology. Since 2003, she is the head of LWW. Her outstanding scientific contributions in the field of erosion and sedimentation research along with her proficiency in project planning, design, and implementation were awarded with the `Qian Ning Prize <http://en.irtces.org/irtces/LatestNews/webinfo/2019/09/1570787334755920.htm>`_ in 2019. Recent research highlights from Silke Wieprecht involves novel findings about riverbed clogging (also known as *colmation*), which relates to vertical connectivity.
 Find out more about Silke Wieprecht and her awarded research on her `personal website <https://www.iws.uni-stuttgart.de/institut/team/Wieprecht-00005/>`_.
