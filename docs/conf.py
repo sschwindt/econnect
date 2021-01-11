@@ -120,6 +120,8 @@ html_context = {
     "conf_py_path": "/docs/"
 }
 
+html_favicon = "/docs/img/browser-icon.png"
+
 if not ("READTHEDOCS" in os.environ):
     html_static_path = ["_static/"]
     html_js_files = ["debug.js"]

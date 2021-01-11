@@ -6,19 +6,20 @@ Hydro-morphodynamic connectivity and ecosystem design in a changing environment
 
 This joint Sino-German research project is funded by the `DFG`_ and the `NSFC`_ in the framework of long-standing efforts to foster scientific collaboration between China and Germany. More information on funding sources will be available on the DFG's `GEPRIS platform <https://gepris.dfg.de/gepris/>`_.
 
-.. admonition:: Are you a student?
-
-    Find out more about student opportunities in the framework of this project on the team website (see :ref:`opportunities` section).
 
 .. figure:: https://github.com/sschwindt/econnect/raw/main/docs/img/header.jpg
     :alt: header
     :figwidth: 100%
     :align: center
 
-    The Rhine in Germany on the left (image: Sebastian Schwindt, 2016) and the Yellow River on the right (image source: Jin Zhang/Xinhua News Agency, 2016).
+    *The Rhine in Germany on the left (image: Sebastian Schwindt, 2016) and the Yellow River on the right (image source: Jin Zhang/Xinhua News Agency, 2016).*
 
-.. note::
-    This website can be downloaded as `style-adapted PDF <https://econnect.readthedocs.io/_/downloads/en/latest/pdf/>`_.
+.. tip:: Download this website `ebook (PDF) <https://econnect.readthedocs.io/_/downloads/en/latest/pdf/>`_.
+
+
+.. admonition:: Are you a student looking for research opportunities?
+
+    Find out more about student opportunities in the framework of this project on the team website (see :ref:`opportunities` section).
 
 .. _about:
 
