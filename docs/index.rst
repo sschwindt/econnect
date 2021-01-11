@@ -135,12 +135,13 @@ Moreover, we have a strong commitment to open-access publishing of any results. 
 
 Instructions for getting ready to use models, codes, and algorithms provided are available at the online learning platform `hydro-informatics.github.io <https://hydro-informatics.github.io/>`_, which represents the baseline for online teaching contents of IWS' `hydro-morphodynamics research group <https://www.iws.uni-stuttgart.de/en/institute/research/focal-points/lww_Hydromorphologie_en/>`_
 
+.. toctree::
+    :caption: About
+
+    self
 
 .. toctree::
     :titlesonly:
-
-    :caption: About
-    self
 
     :caption: Project Team
     team
@@ -151,25 +152,7 @@ Instructions for getting ready to use models, codes, and algorithms provided are
     :caption: Publications
     publications
 
-..
 
-    .. toctree::
-        :hidden:
-        :caption: Project Team
-
-        team
-
-    .. toctree::
-        :hidden:
-        :caption: Methods & Codes
-
-        codes
-
-    .. toctree::
-        :hidden:
-        :caption: Publications
-
-        publications
 
 .. toctree::
     :hidden:
