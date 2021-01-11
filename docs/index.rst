@@ -142,21 +142,8 @@ Instructions for getting ready to use models, codes, and algorithms provided are
     Project Team <team>
     Methods & Codes <codes>
     Publications <publications>
-
-
-
-.. toctree::
-    :hidden:
-    :caption: Internal
-
-    internal
-
-.. toctree::
-    :hidden:
-    :caption: Disclaimer and License
-    :includehidden:
-
-    license
+    Internal <internal>
+    Disclaimer and License <license>
 
 References
 ==========
