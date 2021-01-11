@@ -120,7 +120,7 @@ html_context = {
     "conf_py_path": "/docs/"
 }
 
-html_favicon = "/img/browser-icon.ico"  # relative to source dir (where confy.py lives)
+html_favicon = os.path.abspath("") + "/img/browser-icon.ico"  # relative to source dir (where confy.py lives)
 
 if not ("READTHEDOCS" in os.environ):
     html_static_path = ["_static/"]
