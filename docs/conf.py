@@ -104,7 +104,7 @@ html_theme_options = {
         "binderhub_url": "https://mybinder.org",
         "thebe": True,
         "notebook_interface": "jupyterlab",
-        "collapse_navigation": True
+        "collapse_navigation": False
     },
     "repository_url": "https://github.com/sschwindt/econnect/",
     "repository_branch": "main",

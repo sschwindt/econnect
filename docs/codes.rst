@@ -20,7 +20,22 @@ Code Documentation
 
 This section will be filled with codes products.
 
+Data
+====
 
+Small Datasets (<100MB)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Smaller and test datasets for application examples will be provided on GitHub repositories with instructions on how to use the data with algorithms from this project.
+
+Large Datasets (>100MB)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Large datasets will be hosted on the independent educational, and state-funded `bwSync&Share <https://bwsyncandshare.kit.edu>`_ platform. To get read and write access to the large file repository, `email Sebastian`_.
+
+.. admonition:: Large data sharing
+    :what: Files larger than 100MB
+    :how: bwSync&Share - `email Sebastian`_ for read & write access.
 
 Instructions
 ============
@@ -65,3 +80,5 @@ Please use *PEP 8* for any code (read more on `hydro-informatics.github.io/hypy_
 .. important::
 
     Only push debugged code - Thank you!
+
+.. _email Sebastian: https://www.iws.uni-stuttgart.de/institut/team/Schwindt/
