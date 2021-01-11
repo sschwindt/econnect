@@ -97,8 +97,8 @@ panels_add_bootstrap_css = False
 
 html_theme = "sphinx_book_theme"
 html_theme_options = {
-    "collapse_navigation": True,
-    "theme_dev_mode": True,
+    "collapse_navigation": False,
+    "theme_dev_mode": False,
     "navigation_depth": 2,
     "launch_buttons": {
         "binderhub_url": "https://mybinder.org",

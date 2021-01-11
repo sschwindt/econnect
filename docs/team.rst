@@ -9,7 +9,7 @@ The permanent team of researchers working on this project from the University of
 * Dr. sc. `Sebastian Schwindt`_     (Principal Investigator of the project)
 * `Stefan Haun`_ (PhD)              (Head of Hydraulic Laboratory)
 * Prof. Dr.-Ing. `Silke Wieprecht`_ (Full professor, Department Head)
-* MSc. Young Researcher             (Doctoral researcher)
+* MSc. Doctoral Researcher          (Doctoral researcher)
 
 In addition, the project will be aided by the university's innovative graduation students.
 
@@ -24,20 +24,22 @@ Dr. sc. Sebastian Schwindt is the head of the hydro-morphodynamics research grou
 
     .. image:: https://www.iws.uni-stuttgart.de/img/iws/mitarbeiter/Silke_Wieprecht_LWW.jpg?__scale=w:220,h:220,cx:0,cy:0,cw:2000,ch:2000
 
-Prof. Dr.-Ing. Silke Wieprecht is the Head of the Department of Hydraulic Engineering and Water Resources Management at the IWS (University of Stuttgart). She has long-standing experience in hydraulic engineering with a focus on sediment transport since her early career. Find out more about Silke Wieprecht and her awarded research on her `personal website <https://www.iws.uni-stuttgart.de/institut/team/Wieprecht-00005/>`_.
+Prof. Dr.-Ing. Silke Wieprecht is the Head of the Department of Hydraulic Engineering and Water Resources Management at the IWS (University of Stuttgart). She has long-standing experience in hydraulic engineering with a focus on sediment transport since her early career. Her outstanding scientific contributions in the field of erosion and sedimentation research along with her proficiency in project planning, design, and implementation were awarded with the `Qian Ning Prize <http://en.irtces.org/irtces/LatestNews/webinfo/2019/09/1570787334755920.htm>`_ in 2019. Find out more about Silke Wieprecht and her awarded research on her `personal website <https://www.iws.uni-stuttgart.de/institut/team/Wieprecht-00005/>`_.
 
 .. sidebar:: Stefan Haun
 
     .. image:: https://www.iws.uni-stuttgart.de/img/iws/mitarbeiter/Stefan_Haun_LWW_VA.jpg?__scale=w:220,h:220,cx:0,cy:76,cw:889,ch:889
 
-Dr. Stefan Haun is the head of the `Hydraulic Laboratory <https://www.iws.uni-stuttgart.de/en/hydraulic-laboratory/>`_ of the Department of Hydraulic Engineering and Water Resources Management at the IWS (University of Stuttgart). He and his team of the hydraulic lab support this project with their expertise in fieldwork methods for collecting essential data such as grain size information or the degree of riverbed clogging.
+Dr. Stefan Haun is the head of the `Hydraulic Laboratory <https://www.iws.uni-stuttgart.de/en/hydraulic-laboratory/>`_ of the Department of Hydraulic Engineering and Water Resources Management at the IWS (University of Stuttgart). The focus of his research is on reservoir sedimentation, experimental methods in the field and in the lab, and sediment transport in general. Highlights of his recent research include the PHOTOgrammetric Sediment Erosion Detection (PHOTOSED) method `[11]`_ and the `AMSTEL project <https://www.iws.uni-stuttgart.de/en/institute/news/Stefan-Haun-has-been-accepted-as-a-member-of-the-Elite-Programme/>`_ on micro plastic in rivers. He and his team of the hydraulic lab support this project with their expertise in fieldwork methods for collecting essential data such as grain size information or the degree of riverbed clogging.
 
 
-.. sidebar:: Young Researcher
+.. sidebar:: Doctoral Researcher
 
     .. image:: https://www.iws.uni-stuttgart.de/img/iws3.jpg?__scale=w:220,h:220,cx:32,cy:0,cw:346,ch:346
 
-Coming soon - welcome aboard.
+A doctoral researcher will soon join the project team on behalf of the University of Stuttgart - welcome aboard.
+
+
 
 .. _opportunities:
 
