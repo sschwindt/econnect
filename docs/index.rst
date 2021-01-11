@@ -138,19 +138,20 @@ Instructions for getting ready to use models, codes, and algorithms provided are
 
 .. toctree::
     :titlesonly:
-    :numbered:
 
+    :caption: About
     self
+
+    :caption: Project Team
     team
+
+    :caption: Methods & Codes
     codes
+
+    :caption: Publications
     publications
 
 ..
-    .. toctree::
-        :hidden:
-        :caption: About
-
-        self
 
     .. toctree::
         :hidden:

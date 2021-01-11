@@ -42,14 +42,14 @@ Create new Code
 
 .. sidebar:: A code example
 
-    The Python script ``example_solver.py`` lives in the host repository of this website in ``ROOT/codes/``. The left column shows this Python script in its original form with docstrings (the ``"""This is a docstring"""``). For writing new code, please read this entire page first, follow the instructions below, and visit `hydro-informatics.github.io`_. Thank you!
+    The Python script ``example_solver.py`` lives in the host repository of this website in ``ROOT/codes/``. The left column shows this Python script in its original form with docstrings (the ``"""This is a docstring"""``). For writing new code, please read this entire page first, follow the instructions below, and visit `hydro-informatics.github.io`_. All contributors, please respect the *Zen of Python* (``import this``). Thank you!
 
 .. literalinclude:: example_solver.py
     :language: python
     :linenos:
     :lines: 1-20
 
-All contributors, please respect the *Zen of Python* (``import this``).
+
 
 How to add new package or library imports:
 
