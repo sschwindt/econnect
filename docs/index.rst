@@ -140,9 +140,6 @@ Instructions for getting ready to use models, codes, and algorithms provided are
 
     self
 
-.. toctree::
-    :titlesonly:
-
     :caption: Project Team
     team
 
