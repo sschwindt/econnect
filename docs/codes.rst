@@ -40,8 +40,32 @@ Large datasets will be hosted on the independent educational, and state-funded `
 Instructions
 ============
 
-How code docs work
-~~~~~~~~~~~~~~~~~~
+Create new Code
+~~~~~~~~~~~~~~~
+
+
+.. sidebar:: A code example
+
+    The Python script ``example_solver.py`` lives in the host repository of this website in ``ROOT/codes/``. The left column shows this Python script in its original form with docstrings (the ``"""This is a docstring"""``). To learn more about Python coding in general, visit the teaching website from the hydro-morphodynamics research group of the IWS: `hydro-informatics.github.io`_.
+
+.. literalinclude:: example_solver.py
+    :language: python
+    :caption: ROOT/codes/example_solver.py
+    :linenos:
+    :lines: 1-30
+
+
+
+Download and Upload Project Code
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Start with downloading (i.e., **pull** or **clone**) the project repository to your local computer.
+
+To upload, or **push** new code (in any programming language), consider to create a new subfolder in ``ROOT/codes/`` and save your code there locally.
+
+
+How the Code Docs work
+~~~~~~~~~~~~~~~~~~~~~~~
 
 The automated code documentation of Sphinx ReadTheDocs automatically parses functions and classes for `docstrings <https://www.python.org/dev/peps/pep-0257/>`_ and implements them in the documentation. Python code docs are implemented via `google style <https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html>`_ of `docstrings in scripts <https://hydro-informatics.github.io/hypy_pystyle.html#docstrings>`_. Please familiarize with the style format and strictly apply in all commits.
 
@@ -82,3 +106,4 @@ Please use *PEP 8* for any code (read more on `hydro-informatics.github.io/hypy_
     Only push debugged code - Thank you!
 
 .. _email Sebastian: https://www.iws.uni-stuttgart.de/institut/team/Schwindt/
+.. _hydro-informatics.github.io: https://hydro-informatics.github.io/
