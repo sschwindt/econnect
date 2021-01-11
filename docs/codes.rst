@@ -46,7 +46,6 @@ Create new Code
 
 .. literalinclude:: example_solver.py
     :language: python
-    :caption: ROOT/codes/example_solver.py
     :linenos:
     :lines: 1-20
 

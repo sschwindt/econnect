@@ -1,4 +1,4 @@
-"""Sample script for solving 1D hydraulics."""
+"""This is the example_solver.py script for solving 1D hydraulics."""
 import math as m
 
 
