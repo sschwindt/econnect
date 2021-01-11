@@ -14,7 +14,7 @@ This joint Sino-German research project is funded by the `DFG`_ and the `NSFC`_ 
 
     *The Rhine in Germany on the left (image: Sebastian Schwindt, 2016) and the Yellow River on the right (image source: Jin Zhang/Xinhua News Agency, 2016).*
 
-.. Tip:: Download this website as `ebook (PDF) <https://econnect.readthedocs.io/_/downloads/en/latest/pdf/>`_.
+:download:`Download this website as ebook (PDF) <https://econnect.readthedocs.io/_/downloads/en/latest/pdf/>`
 
 
 .. admonition:: Are you a student looking for research opportunities?
@@ -136,17 +136,14 @@ Moreover, we have a strong commitment to open-access publishing of any results. 
 Instructions for getting ready to use models, codes, and algorithms provided are available at the online learning platform `hydro-informatics.github.io <https://hydro-informatics.github.io/>`_, which represents the baseline for online teaching contents of IWS' `hydro-morphodynamics research group <https://www.iws.uni-stuttgart.de/en/institute/research/focal-points/lww_Hydromorphologie_en/>`_
 
 
-More contents
-~~~~~~~~~~~~~
-
 .. toctree::
-    :maxdepth: 0
+    :hidden:
     :caption: About
 
     self
 
 .. toctree::
-    :maxdepth: 3
+    :hidden:
     :caption: Project Team
 
     team
@@ -164,13 +161,13 @@ More contents
     publications
 
 .. toctree::
-    :maxdepth: 3
+    :hidden:
     :caption: Internal
 
     internal
 
 .. toctree::
-    :maxdepth: 3
+    :hidden:
     :caption: Disclaimer and License
     :includehidden:
 
