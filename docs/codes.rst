@@ -44,7 +44,7 @@ Create new Code
 
     The Python script ``example_solver.py`` lives in the host repository of this website in ``ROOT/codes/``. The left column shows this Python script in its original form with docstrings (the ``"""This is a docstring"""``). To learn more about Python coding in general, visit the teaching website from the hydro-morphodynamics research group of the IWS: `hydro-informatics.github.io`_.
 
-.. literalinclude:: https://github.com/sschwindt/econnect/blob/main/codes/example_solver.py
+.. literalinclude:: example_solver.py
     :language: python
     :caption: ROOT/codes/example_solver.py
     :linenos:
@@ -69,7 +69,16 @@ Then open ``Git Bash`` (on Windows) or ``Terminal`` (on Linux or MacOS) and tap 
     git clone https://github.com/sschwindt/econnect.git
     cd econnect
 
-To upload, or **push** new code (in any programming language), consider to create a new subfolder in ``ROOT/codes/`` and save your code there locally.
+Now, the source code for this website and the above shown ``example-solver.py`` script are copied to your local computer. To make changes in the code or to modify any existing file, you will need to become a contributor of this repository and you will need to `email Sebastian`_ to get the required read & write rights. Once you are a contributor, edit, add, or remove scripts and files in your local ``TARGET/DIRECTORY/econnect/`` (corresponds to ``ROOT``) folder. Consider to create a new subfolder in ``ROOT/codes/`` and save your code there locally (basically in any programming language). Then, upload, or **push** new code:
+
+.. code-block::
+
+    git add .
+    git commit -m "ADD AN ACTIVE-VOICED MESSAGE IN SIMPLE PAST"
+    git pull --rebase
+    git push
+
+If you encounter an error or warning after running ``git pull --rebase``, that means someone else has been editing the file at the same time. No worry about that, git will guide you through troubleshooting: Just open the concerned file and manually fix the indicated code blocks (indicator: ``<<<``  and ``>>>`` signs). Then follow the commands that *GitBash* or *Terminal* suggest you to use. To read more about git, visit `https://hydro-informatics.github.io/hy_git.html`.
 
 
 How the Code Docs work
