@@ -140,7 +140,7 @@ More contents
 ~~~~~~~~~~~~~
 
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 1
     :caption: About
 
     self
@@ -153,7 +153,7 @@ More contents
 
 .. toctree::
     :maxdepth: 2
-    :caption: Codes & Algorithms
+    :caption: Methods & Codes
 
     codes
 
@@ -165,7 +165,7 @@ More contents
 
 .. toctree::
     :maxdepth: 3
-    :caption: Internal Access
+    :caption: Internal
 
     internal
 

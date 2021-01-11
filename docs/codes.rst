@@ -1,4 +1,19 @@
+Methods
+=======
 
+Eco-morphological Connectivity
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lateral and vertical connectivity (University of Stuttgart)
+
+More coming soon
+
+Hydrological Connectivity
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Longitudinal connectivity (NCEPU/YTU)
+
+More coming soon
 
 Code Documentation
 =========================
