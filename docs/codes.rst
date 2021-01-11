@@ -42,14 +42,26 @@ Create new Code
 
 .. sidebar:: A code example
 
-    The Python script ``example_solver.py`` lives in the host repository of this website in ``ROOT/codes/``. The left column shows this Python script in its original form with docstrings (the ``"""This is a docstring"""``). To learn more about Python coding in general, visit the teaching website from the hydro-morphodynamics research group of the IWS: `hydro-informatics.github.io`_.
+    The Python script ``example_solver.py`` lives in the host repository of this website in ``ROOT/codes/``. The left column shows this Python script in its original form with docstrings (the ``"""This is a docstring"""``). For writing new code, please read this entire page first, follow the instructions below, and visit `hydro-informatics.github.io`_. Thank you!
 
 .. literalinclude:: example_solver.py
     :language: python
     :caption: ROOT/codes/example_solver.py
     :linenos:
-    :lines: 1-30
+    :lines: 1-20
 
+All contributors, please respect the *Zen of Python* (``import this``).
+
+How to add new package or library imports:
+
+* Add it to the global import management file (*ROOT/import_mgmt.py*) within an *try-except-ImportError* statement (`read more <https://hydro-informatics.github.io/hypy_pyerror.html#try-except>`_).
+* If you need to import a library or package that is not yet listed in the *ROOT/environments.yml* and *ROOT/requirements.txt* files, please make sure to add the new library or package in both files.
+* Add the new library or package to the ``autodoc_mock_imports`` *list* in *ROOT/docs/conf.py*.
+* Update the `version number <https://www.python.org/dev/peps/pep-0440/>`_ according to the `CONTRIBUTING <https://github.com/Ecohydraulics/flusstools-pckg/blob/main/docs/CONTRIBUTING.md>`_ standards.
+
+Please use *PEP 8* for any code (read more on `hydro-informatics.github.io/hypy_pystyle <https://hydro-informatics.github.io/hypy_pystyle.html>`_) and try to keep the number of lines per script below 150 (it's hard or even apparently impossible sometimes - just try please).
+
+To learn more about Python coding in general, visit the teaching website from the hydro-morphodynamics research group of the IWS: `hydro-informatics.github.io`_.
 
 
 Download and Upload Project Code
@@ -78,7 +90,17 @@ Now, the source code for this website and the above shown ``example-solver.py`` 
     git pull --rebase
     git push
 
+
 If you encounter an error or warning after running ``git pull --rebase``, that means someone else has been editing the file at the same time. No worry about that, git will guide you through troubleshooting: Just open the concerned file and manually fix the indicated code blocks (indicator: ``<<<``  and ``>>>`` signs). Then follow the commands that *GitBash* or *Terminal* suggest you to use. To read more about git, visit `https://hydro-informatics.github.io/hy_git.html`.
+
+.. important::
+
+    Only push debugged code - Thank you!
+
+
+.. admonition:: What is the goal of this approach?
+
+    Using git enables version control and collaborative development of algorithms. Following coding standards (e.g., PEP8 styles), and with the help of git, the project results will be transparent, re-usable, safely stored, and accessible for anyone interested. Eventually, we want to provide the project results as a `pip-hosted <https://pypi.org/project/pip/>`_ Python package to leverage universal use of the project achievements along with coherent and understandable documentation.
 
 
 How the Code Docs work
@@ -104,23 +126,6 @@ Example
 .. automodule:: example_solver
     :members:
 
-Add new Python scripts
-~~~~~~~~~~~~~~~~~~~~~~
-
-All contributors, please respect the *Zen of Python* (``import this``).
-
-How to add new package or library imports:
-
-* Add it to the global import management file (*ROOT/import_mgmt.py*) within an *try-except-ImportError* statement (`read more <https://hydro-informatics.github.io/hypy_pyerror.html#try-except>`_).
-* If you need to import a library or package that is not yet listed in the *ROOT/environments.yml* and *ROOT/requirements.txt* files, please make sure to add the new library or package in both files.
-* Add the new library or package to the ``autodoc_mock_imports`` *list* in *ROOT/docs/conf.py*.
-* Update the `version number <https://www.python.org/dev/peps/pep-0440/>`_ according to the `CONTRIBUTING <https://github.com/Ecohydraulics/flusstools-pckg/blob/main/docs/CONTRIBUTING.md>`_ standards.
-
-Please use *PEP 8* for any code (read more on `hydro-informatics.github.io/hypy_pystyle <https://hydro-informatics.github.io/hypy_pystyle.html>`_) and try to keep the number of lines per script below 150 (it's hard or even apparently impossible sometimes - just try please).
-
-.. important::
-
-    Only push debugged code - Thank you!
 
 .. _email Sebastian: https://www.iws.uni-stuttgart.de/institut/team/Schwindt/
 .. _hydro-informatics.github.io: https://hydro-informatics.github.io/
