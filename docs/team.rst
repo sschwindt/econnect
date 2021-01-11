@@ -13,8 +13,6 @@ The permanent team of researchers working on this project from the University of
 
 In addition, the project will be aided by the university's innovative graduation students.
 
-Principal Investigator
-^^^^^^^^^^^^^^^^^^^^^^
 
 .. sidebar:: Sebastian Schwindt
 
@@ -28,22 +26,18 @@ Dr. sc. Sebastian Schwindt is the head of the hydro-morphodynamics research grou
 
 Prof. Dr.-Ing. Silke Wieprecht is the Head of the Department of Hydraulic Engineering and Water Resources Management at the IWS (University of Stuttgart). She has long-standing experience in hydraulic engineering with a focus on sediment transport since her early career. Find out more about Silke Wieprecht and her awarded research on her `personal website <https://www.iws.uni-stuttgart.de/institut/team/Wieprecht-00005/>`_.
 
+.. sidebar:: Stefan Haun
 
-..
+    .. image:: https://www.iws.uni-stuttgart.de/img/iws/mitarbeiter/Stefan_Haun_LWW_VA.jpg?__scale=w:220,h:220,cx:0,cy:76,cw:889,ch:889
 
-    .. sidebar:: Stefan Haun
-
-        Dr. Stefan Haun is the head of the `Hydraulic Laboratory <https://www.iws.uni-stuttgart.de/en/hydraulic-laboratory/>`_ of the Department of Hydraulic Engineering and Water Resources Management at the IWS (University of Stuttgart). He and his team of the hydraulic lab support this project with their expertise in fieldwork methods for collecting essential data such as grain size information or the degree of riverbed clogging.
-
-        .. figure:: https://www.iws.uni-stuttgart.de/img/iws/mitarbeiter/Stefan_Haun_LWW_VA.jpg?__scale=w:220,h:220,cx:0,cy:76,cw:889,ch:889
-            :alt: haun
-            :figwidth: 100%
-            :align: center
+Dr. Stefan Haun is the head of the `Hydraulic Laboratory <https://www.iws.uni-stuttgart.de/en/hydraulic-laboratory/>`_ of the Department of Hydraulic Engineering and Water Resources Management at the IWS (University of Stuttgart). He and his team of the hydraulic lab support this project with their expertise in fieldwork methods for collecting essential data such as grain size information or the degree of riverbed clogging.
 
 
-    .. sidebar:: Young Researcher
+.. sidebar:: Young Researcher
 
-        Coming soon
+    .. image:: https://www.iws.uni-stuttgart.de/img/iws3.jpg?__scale=w:220,h:220,cx:32,cy:0,cw:346,ch:346
+
+Coming soon - welcome aboard.
 
 .. _opportunities:
 

@@ -97,13 +97,14 @@ panels_add_bootstrap_css = False
 
 html_theme = "sphinx_book_theme"
 html_theme_options = {
-
+    "collapse_navigation": True,
     "theme_dev_mode": True,
+    "navigation_depth": 2,
     "launch_buttons": {
         "binderhub_url": "https://mybinder.org",
         "thebe": True,
         "notebook_interface": "jupyterlab",
-        "collapse_navigation": False
+        "collapse_navigation": True
     },
     "repository_url": "https://github.com/sschwindt/econnect/",
     "repository_branch": "main",
