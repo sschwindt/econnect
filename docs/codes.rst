@@ -33,10 +33,6 @@ Large Datasets (>100MB)
 
 Large datasets will be hosted on the independent educational, and state-funded `bwSync&Share <https://bwsyncandshare.kit.edu>`_ platform. To get read and write access to the large file repository, `email Sebastian`_.
 
-.. admonition:: Large data sharing
-    :what: Files larger than 100MB
-    :how: bwSync&Share - `email Sebastian`_ for read & write access.
-
 Instructions
 ============
 
@@ -48,7 +44,7 @@ Create new Code
 
     The Python script ``example_solver.py`` lives in the host repository of this website in ``ROOT/codes/``. The left column shows this Python script in its original form with docstrings (the ``"""This is a docstring"""``). To learn more about Python coding in general, visit the teaching website from the hydro-morphodynamics research group of the IWS: `hydro-informatics.github.io`_.
 
-.. literalinclude:: example_solver.py
+.. literalinclude:: https://github.com/sschwindt/econnect/blob/main/codes/example_solver.py
     :language: python
     :caption: ROOT/codes/example_solver.py
     :linenos:
@@ -60,6 +56,18 @@ Download and Upload Project Code
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Start with downloading (i.e., **pull** or **clone**) the project repository to your local computer.
+
+.. admonition:: Windows Users
+
+    Download and install `Git Bash <https://git-scm.com/downloads>`_. Linux users will most likely not need to install git because it is inherently part of the system tools.
+
+Then open ``Git Bash`` (on Windows) or ``Terminal`` (on Linux or MacOS) and tap (replace capital letters with your target directory):
+
+.. code-block::
+
+    cd TARGET/DIRECTORY/
+    git clone https://github.com/sschwindt/econnect.git
+    cd econnect
 
 To upload, or **push** new code (in any programming language), consider to create a new subfolder in ``ROOT/codes/`` and save your code there locally.
 
