@@ -140,7 +140,7 @@ More contents
 ~~~~~~~~~~~~~
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 0
     :caption: About
 
     self
