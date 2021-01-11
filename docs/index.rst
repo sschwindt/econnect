@@ -14,7 +14,7 @@ This joint Sino-German research project is funded by the `DFG`_ and the `NSFC`_ 
 
     *The Rhine in Germany on the left (image: Sebastian Schwindt, 2016) and the Yellow River on the right (image source: Jin Zhang/Xinhua News Agency, 2016).*
 
-.. tip:: Download this website as `ebook (PDF) <https://econnect.readthedocs.io/_/downloads/en/latest/pdf/>`_.
+.. Tip:: Download this website as `ebook (PDF) <https://econnect.readthedocs.io/_/downloads/en/latest/pdf/>`_.
 
 
 .. admonition:: Are you a student looking for research opportunities?
@@ -152,13 +152,13 @@ More contents
     team
 
 .. toctree::
-    :maxdepth: 2
+    :hidden:
     :caption: Methods & Codes
 
     codes
 
 .. toctree::
-    :maxdepth: 2
+    :hidden:
     :caption: Publications
 
     publications
