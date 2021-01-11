@@ -120,7 +120,7 @@ html_context = {
     "conf_py_path": "/docs/"
 }
 
-html_favicon = "https://github.com/sschwindt/econnect/raw/main/docs/img/browser-icon.png"
+html_favicon = "/docs/img/browser-icon.ico"
 
 if not ("READTHEDOCS" in os.environ):
     html_static_path = ["_static/"]
