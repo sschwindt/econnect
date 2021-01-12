@@ -139,11 +139,32 @@ Instructions for getting ready to use models, codes, and algorithms provided are
     :hidden:
 
     About <self>
+
+.. toctree::
+    :hidden:
+
     Project Team <team>
+
+.. toctree::
+    :hidden:
+
     Methods & Codes <codes>
+
+.. toctree::
+    :hidden:
+
     Publications <publications>
+
+.. toctree::
+    :hidden:
+
     Internal <internal>
+
+.. toctree::
+    :hidden:
+
     Disclaimer and License <license>
+
 
 References
 ==========
