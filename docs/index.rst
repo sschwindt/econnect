@@ -33,8 +33,8 @@ Collaboration & Goals
 
 The collaboration of the Chinese North China Electric Power University (`NCEPU`_) and Yantai University (`YPU`_) with the German `University of Stuttgart`_ will leverage the establishment of a two-fold approach in two different environmental setups. The two-fold approach involves a hydrological optimization of ecological sustainable dam releases by the research team based in China and an ecomorphological design optimization for river restoration performed at the University of Stuttgart. The project profits from prior studies on the Yellow River and the Rhine conducted by the two research teams. Both rivers created morphologically similar fluvial landscape pattern, but in hydrologically and geologically different environments and different legacy.
 
-Methods
-~~~~~~~
+Methods Overview
+~~~~~~~~~~~~~~~~
 
 This project uses data from both the Yellow River and the Rhine to optimize hydrological connectivity and sustainable ecosystem restoration actions. The role of computers in the design of ecosystems has become increasingly important in recent years and powerful numerical models have now set the standard for planning interventions at rivers. However, objective, parametric descriptions of fluvial landscapes are lacking. Such parameters are required to sustainably design ecosystems for target species in a changing climate. This project takes up the challenge of defining relevant hydrological connectivity and morphodynamic parameters to manage and re-design fluvial landscapes sustainably. The parametric description of fluvial ecosystems will enable a unique coupling of numerical modelling and new river design algorithms via feedback loops. Such feedback loops will involve hydro-climatic regimes and ecomorphological connectivity parameters. This Sino-German collaboration will endow its results with global relevance by merging expertise and complementary hydrological-morphological analyses.
 
@@ -92,8 +92,8 @@ The third sub-objective is to combine and test our jointly developed design sche
 
 
 
-Work program & Methods
-======================
+Work program & Principle
+========================
 
 Milestones
 ~~~~~~~~~~
@@ -122,8 +122,8 @@ Our project partners from the North China Electric Power University (NCEPU) and 
 Based on the available datasets, we identify two to three study sites at the Rhine, each about 2-3 km long, which we then model numerically. After the establishment and the numerical, hydraulic-morphodynamic modelling of the current state of the selected sites, we improve and newly develop landscape modelling schemes and algorithms (e.g., similar to River Architect `[18]`_) to enhance the habitat quality for target species. We identify climate change scenarios and agree on relevant scenarios within the entire Sino-German research team. The climate change scenarios constitute alternate (drought and flood) hydrographs (upstream boundary conditions) that we are modeled with a current-state morphology. With the model results, we analyze how river landscapes can be modified to provide robust habitat in the case of prolonged drought and emphasized floods.
 The researchers based in China have already developed models and methods needed for the numerical and physical analyses of the Yellow River in the past. The study on the Yellow River contributes the hydrological counterpart to our morphodynamic optimization. As a result, the Chinese research team will benefit from the morphodynamic ecosystem optimization scheme produced by the IWS and the IWS will benefit from the hydrological connectivity model elaborated by the Chinese research team.
 
-Software & Techniques
-~~~~~~~~~~~~~~~~~~~~~
+Software
+~~~~~~~~
 
 We use exclusively open-access and open-source software for the following purposes:
 
