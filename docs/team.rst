@@ -35,11 +35,11 @@ Dr. Stefan Haun is the head of the `Hydraulic Laboratory <https://www.iws.uni-st
 University of Science and Technology, Norway) with a focus on three-dimensional numerical modelling. Since he joint the LWW in 2014, his research focuses on reservoir sedimentation, experimental methods in the field and in the lab, and sediment transport in general. Highlights of his recent research include the PHOTOgrammetric Sediment Erosion Detection (PHOTOSED) method and the `AMSTEL project <https://www.iws.uni-stuttgart.de/en/institute/news/Stefan-Haun-has-been-accepted-as-a-member-of-the-Elite-Programme/>`_ on micro plastic in rivers. He and his team of the hydraulic lab support this project with their expertise in fieldwork methods for collecting essential data such as grain size information or the degree of riverbed clogging.
 
 
-.. sidebar:: Doctoral Researcher
+.. sidebar:: Maximilian Kunz
 
-    .. image:: https://www.iws.uni-stuttgart.de/img/iws3.jpg?__scale=w:220,h:220,cx:32,cy:0,cw:346,ch:346
+    .. image:: https://www.iws.uni-stuttgart.de/img/iws/mitarbeiter/Maximilian_Kunz_LWW.jpg?__scale=w:220,h:220,cx:350,cy:0,cw:899,ch:899
 
-A doctoral researcher will soon join the project team on behalf of the University of Stuttgart - welcome aboard.
+MSc. Maximilian Kunz is a doctoral researcher at LWW. He focuses on the development of numerical models, ecomorphological assessments (vertical and lateral connectivity), and automation techniques in the model chain with principle component analysis (PCA). MORE TO FOLLOW SOON.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
