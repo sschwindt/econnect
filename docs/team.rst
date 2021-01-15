@@ -9,7 +9,7 @@ The permanent team of researchers working on this project from the University of
 * Dr. sc. `Sebastian Schwindt`_     (Principal Investigator of the project)
 * `Stefan Haun`_ (PhD)              (Head of Hydraulic Laboratory)
 * Prof. Dr.-Ing. `Silke Wieprecht`_ (Full professor, Department Head)
-* MSc. Doctoral Researcher          (Doctoral researcher)
+* MSc. `Maximilian Kunz`_           (Doctoral researcher)
 
 In addition, the project will be aided by the university's innovative graduation students.
 
@@ -40,7 +40,7 @@ University of Science and Technology, Norway) with a focus on three-dimensional 
     .. image:: https://www.iws.uni-stuttgart.de/img/iws/mitarbeiter/Maximilian_Kunz_LWW.jpg?__scale=w:220,h:220,cx:350,cy:0,cw:899,ch:899
 
 MSc. Maximilian Kunz is a doctoral researcher at LWW. He focuses on the development of numerical models, ecomorphological assessments (vertical and lateral connectivity), and automation techniques in the model chain with principle component analysis (PCA). MORE TO FOLLOW SOON.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+He studied Civil Engineering on the Bachelor and Master level at the University of Stuttgart, with Water and Environment as his main field of study. During his Master studies, he spent one semester at the `Norwegian University of Science and Technology (NTNU) <https://www.ntnu.edu/>`_ to broaden his knowledge in the field of Hydropower Development. In his Master thesis he focused on 3-D numerical modelling of reservoir flushing with partial drawdown. Parallel to his studies he gained professional experience by working for `Wald + Corbe Consulting GmbH <http://wald-corbe.de/>`_ in Stuttgart. His work included the assistance in all work phases of several construction projects in the field of flood protection and ecological connectivity.
 
 
 
@@ -77,3 +77,4 @@ Dr.       Meng          Changqing      Lecturer (NCEPU)
 .. _Sebastian Schwindt: https://sebastian-schwindt.org/
 .. _Silke Wieprecht: https://www.iws.uni-stuttgart.de/institut/team/Wieprecht-00005/
 .. _Stefan Haun: https://www.iws.uni-stuttgart.de/institut/team/Haun-00001/
+.. _Maximilian Kunz: https://www.iws.uni-stuttgart.de/institut/team/Kunz-00002/
