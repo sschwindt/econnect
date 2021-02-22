@@ -45,10 +45,7 @@ He studied Civil Engineering on the Bachelor and Master level at the University 
 
 .. _opportunities:
 
-Grad Students
--------------
-
-Opportunities for Bachelor and Master Theses within this project are already available on `IWS' website <https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/>`_. Currently, we are looking for undergrad or grad students who want to write a study thesis on the following topics:
+**Grad Students**: Opportunities for Bachelor and Master Theses within this project are already available on `IWS' website <https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/>`_. Currently, we are looking for undergrad or grad students who want to write a study thesis on the following topics:
 
 *  `Ecosystem analysis of the Rhine <https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/BSc-2021-Ecosystem-analysis-Rhine.pdf>`_
 
