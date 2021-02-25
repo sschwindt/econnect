@@ -76,7 +76,7 @@ Prof. Dr.-Ing. Shanghong Zhang is the Head of the School of water resources and 
 
 .. sidebar:: Changming Ji
 
-    .. image:: https://github.com/sschwindt/econnect/raw/main/docs/img/changming.jpg
+    .. image:: https://bwsyncandshare.kit.edu/s/exmwYAJpCnTZzf8/preview
 
 Prof. Dr.-Ing. Changming Ji is a distinguished pioneer in establishing the discipline of water resource & hydrology and honorable member in founding the school of water resources and hydropower engineering at NCEPU. He is an engineering undergraduate and postgraduate (Master & Doctorate) of Wuhan University of Hydraulic and Electrical Engineering between 1978 and 1988. In 1990, He completed his postdoctoral research at the University of California, Davis (USA). Since 1978, He was devoted to the research and courses of water resources management & hydrology as well as management of hydraulic engineering works. Prof. Changming Ji is a Fellow of China Society of Natural Resources and Editorial member of Journal of Hydroelectric Engineering, etc. He is a highly respected consultant to hydropower engineering in Ministry of Water Resources and his great contribution is officially praised by the State Council. Read more on his `institutional profile <https://hydro.ncepu.edu.cn/szdw/dsxx/6bec2b350dd4495381a1ddc4bc3ed8f1.htm>`_.
 
