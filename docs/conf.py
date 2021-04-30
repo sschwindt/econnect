@@ -31,6 +31,7 @@ autodoc_mock_imports = [
 ]
 
 import sphinx_rtd_theme
+import sphinx_book_theme
 from sphinx.locale import _
 
 project = u"Hydro-morphodynamic connectivity and ecosystem design in a changing environment"
