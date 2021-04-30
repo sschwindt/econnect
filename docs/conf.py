@@ -97,14 +97,12 @@ panels_add_bootstrap_css = False
 
 html_theme = "sphinx_book_theme"
 html_theme_options = {
-    "collapse_navigation": False,
     "theme_dev_mode": False,
     "navigation_depth": 2,
     "launch_buttons": {
         "binderhub_url": "https://mybinder.org",
         "thebe": True,
         "notebook_interface": "jupyterlab",
-        "collapse_navigation": False
     },
     "repository_url": "https://github.com/sschwindt/econnect/",
     "repository_branch": "main",
@@ -116,7 +114,7 @@ html_context = {
     "date": datetime.date.today().strftime("%Y-%m-%d"),
     "display_github": True,
     "github_user": "sschwindt",
-    "github_repo": "eonnect",
+    "github_repo": "econnect",
     "github_version": "main/",
     "conf_py_path": "/docs/"
 }
